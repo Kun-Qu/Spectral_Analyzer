@@ -1,0 +1,2 @@
+#Spectral_Analyzer
+This repo is a simple analyzer to investigate the dissipation error and the dispersion error of cfd spacial scheme in one-dimension case.The analyzer use the tested scheme to compute spacial derivatives, and then perform DFT on these derivatives to obtain the difference of spectral information between before and after. The result of the analyzer is wrtited in a format which can be recognize by Tecplot.
